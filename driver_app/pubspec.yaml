@@ -27,6 +27,7 @@ dependencies:
   animated_text_kit:
   flutter_polyline_points:
   font_awesome_flutter:
+  flutter_geofire:
 
 dev_dependencies:
   flutter_test:
